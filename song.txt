@@ -3,9 +3,4 @@ la la la
 kekeke
 bo bo bo
 
-<<<<<<< HEAD
-to get rid off
-=======
-ugu ugu
-are you here
->>>>>>> 6d841735f0d254cb2d4c9263efac638f15d866e7
+oh mine
